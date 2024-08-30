@@ -1,0 +1,4 @@
+print("Welcome to the Fantasy Team Name Generator.")
+adj = input("What adjective describes you best?\n")
+animal = input("What's your favorite animal?\n")
+print("Your team name could be: " + adj + " " + animal)
